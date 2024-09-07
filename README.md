@@ -62,3 +62,7 @@ python main.py
 
 4. Enjoy the face recognition system! You can enroll new faces, recognize existing ones, and explore the different features of the application.
 
+## Credits
+
+This project was developed within a team of 2 people (me & Ankit Agrawal) as part of AIML Project..
+
