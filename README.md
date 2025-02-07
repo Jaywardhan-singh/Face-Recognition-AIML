@@ -36,7 +36,7 @@ git clone https://github.com/Jaywardhan-singh/Face-Recognition-AIML.git
 
 2. Navigate to the project directory:
 ```
-cd face-recognition-aiml
+cd Face-Recognition-AIML
 ```
 
 3. Install the required dependencies using pip:
