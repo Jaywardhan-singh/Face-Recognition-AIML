@@ -1,17 +1,17 @@
 # AIML-Based Face Detection & Recognition
 
-## Project Overview
+## Project Overview 🚀
 
 This project focuses on implementing face detection within images or video frames using Python. Leveraging the power of various libraries and modules, the system aims to provide an efficient and accurate face detection solution. The project integrates a user-friendly interface with face detection algorithms and a database to offer real-time face detection capabilities.
 
-## Objectives
+## Objectives 🎯
 
 - **Develop a Face Detection System**: Create a system that can accurately detect faces in images or video frames.
 - **Utilize Various Libraries and Modules**: Employ libraries such as OpenCV, Tkinter, MySQL, PIL, and NumPy for different aspects of the project.
 - **Enable Real-Time Detection**: Implement real-time face detection by processing video frames using the Haar Cascade Classifier.
 - **Demonstrate Practical Applicability**: Showcase the system's effectiveness in real-world scenarios like surveillance and biometrics.
 
-## Technologies and Modules Used
+## Technologies and Modules Used 🛠️
 
 - **Python**: The primary programming language for implementation.
 - **OpenCV (cv2)**: For face detection and image processing.
@@ -20,14 +20,14 @@ This project focuses on implementing face detection within images or video frame
 - **NumPy**: For numerical operations and array handling.
 - **MySQL**: For database management and storing face data.
 
-## Features
+## Features ✨
 
 - **Face Detection**: Detects faces in static images and video frames.
 - **Real-Time Processing**: Processes video frames in real-time to detect faces.
 - **User Interface**: A user-friendly GUI for interacting with the system.
 - **Database Integration**: Manages and stores face data for recognition and verification.
 
-## Installation
+## Installation 🛠️
 
 1. Clone this repository to your local machine using the following command:
 ```
@@ -43,11 +43,12 @@ cd Face-Recognition-AIML
 ```
 pip install -r requirements.txt
 ```
+
 4. Configure the MySQL database connection:
    - Open the `config.ini` file and provide the necessary details for your MySQL database connection (host, port, username, password, database name).
    - Save and close the file.
      
-## Usage
+## Usage 🎥
 
 To run the face recognition system, follow these steps:
 
@@ -62,7 +63,6 @@ python main.py
 
 4. Enjoy the face recognition system! You can enroll new faces, recognize existing ones, and explore the different features of the application.
 
-## Credits
+## Credits 🤝
 
-This project was developed within a team of 2 people (me & Ankit Agrawal) as part of AIML Project..
-
+This project was developed within a team of 2 people (me & Ankit Agrawal) as part of AIML Project.
